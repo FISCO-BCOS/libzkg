@@ -56,7 +56,7 @@ sudo yum install -y procps-ng procps-ng-devel libgomp
 > Download cmake file
 
 ``` shell
-wget XXXX
+wget https://github.com/FISCO-BCOS/FISCO-BCOS/blob/master/cmake/ProjectLibZkg.cmake
 cp ProjectLibZkg.cmake your_project_dir/cmake/
 ```
 
@@ -126,7 +126,7 @@ mkdir build
 cd build
 cmake3 ..
 make
-#If success, demo is generated
+#If success, libzkg.a is generated
 ```
 
  
