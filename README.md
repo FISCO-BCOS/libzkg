@@ -133,4 +133,4 @@ make
 
 ## Senario 1: tx1to1 
 
-consult with [zkg.hpp](circuit/zkg.hpp) and [zkg-tx1to1 project XXXXXX]()
+consult with [zkg.hpp](circuit/zkg.hpp) and [zkg-tx1to1](https://github.com/FISCO-BCOS/zkg-tx1to1)
