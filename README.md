@@ -4,6 +4,8 @@ FISCO-BCOS use libzkg to generate zero-knowledge proof for user and only governe
 
 Notice: This is an experimental prototype. Do not use it in product.
 
+View at [Verifiable Confidential Ledger, VCL](https://wedpr-lab.readthedocs.io/zh_CN/latest/docs/verifiable_confidential_ledger.html) get newest fisco bcos zkp tranfer solution!
+
 ## Introductions
 
 ### Background
